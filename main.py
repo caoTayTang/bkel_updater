@@ -28,7 +28,14 @@ s = requests.session()
 def login_sso():
     SSO_URL = 'https://sso.hcmut.edu.vn/cas/login?service=https://mybk.hcmut.edu.vn/my/homeSSO.action'
     headers = CaseInsensitiveDict()
-    headers['Content-Type'] = 'application/x-www-form-urlencoded'
+    # headers['Content-Type'] = 'application/x-www-form-urlencoded'
+
+    headers = {
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.5',
+    }
     response = s.get(SSO_URL, headers=headers).text
 
     lt = response.split('<input type="hidden" name="lt" value="')[1].split('" />')[0]
@@ -79,7 +86,7 @@ def helper_get_grade(row, _class):
 
 def crawl_grades_view(course_grades):
     for course in course_link:
-        url = f'https://lms.hcmut.edu.vn/course/user.php?mode=grade&id={course['id']}&user={LMS_USER_ID}'
+        url = f"https://lms.hcmut.edu.vn/course/user.php?mode=grade&id={course['id']}&user={LMS_USER_ID}"
         body = BeautifulSoup(s.get(url).text, 'html.parser').find('tbody')
         if isinstance(body, Tag):
             rows = body.find_all('tr')
@@ -247,7 +254,6 @@ def recheck_grade():
         # In case of newly added item or change in grade_item
         for value in diff_set: 
             nothingChange = False
-            print("New item added")
             diff_results.append({
                 'url': f'https://lms.hcmut.edu.vn/course/user.php?mode=grade&id={course_grades[i]['id']}&user={LMS_USER_ID}',
                 'title': f'{course_grades[i]['course_name']}', 
@@ -268,7 +274,6 @@ def recheck_grade():
                 if new_value != old_value:
                     nothingChange = False
 
-                    print("New item added")
                     diff_results.append({
                         'url': f'https://lms.hcmut.edu.vn/course/user.php?mode=grade&id={course_grades[i]['id']}&user={LMS_USER_ID}',
                         'title': f'{course_grades[i]['course_name']}', 
@@ -309,7 +314,6 @@ def recheck_data():
 
             if len(diff_result):
                 nothingChange = False
-                print("New item added")
 
             for result in diff_result:
                 notify(result)
@@ -337,7 +341,8 @@ crawl_grades_view(course_grades)
 #     js_string = json.dumps(course_grades, indent=4, ensure_ascii=False)
 #     file.write(js_string)
 
-#TODO: Check DMs
+#TODO: Check
+#TODO: Get user id instead of const (possible by the bell has 1 attribute data-id)
 hour = 3
 while True:
     recheck_data()
