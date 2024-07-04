@@ -1,0 +1,1331 @@
+[
+    {
+        "id": "29619",
+        "course_name": "Cấu trúc Rời rạc cho Khoa học Máy tính (CO1007)_Trần Hồng Tài (CQ_HK232) [L04]",
+        "total_grade": [
+            {
+                "grade_item": "Quiz 1",
+                "calulated_weight": "-",
+                "grade": "8,67",
+                "range": "0–10",
+                "percentage": "86,67 %",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–20",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "5167",
+        "course_name": "Cấu trúc Rời rạc cho Khoa học Máy tính (CO1007)_Video",
+        "total_grade": [
+            {
+                "grade_item": "BF, BF_PATH (Input mẫu - không tính điểm)",
+                "calulated_weight": "11,11 %",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "11,11 %"
+            },
+            {
+                "grade_item": "BF",
+                "calulated_weight": "11,11 %",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "11,11 %"
+            },
+            {
+                "grade_item": "BF_PATH",
+                "calulated_weight": "11,11 %",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "11,11 %"
+            },
+            {
+                "grade_item": "Traveling_size8",
+                "calulated_weight": "11,11 %",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "11,11 %"
+            },
+            {
+                "grade_item": "Traveling_size10",
+                "calulated_weight": "11,11 %",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "11,11 %"
+            },
+            {
+                "grade_item": "Traveling_size12",
+                "calulated_weight": "11,11 %",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "11,11 %"
+            },
+            {
+                "grade_item": "Traveling_size14",
+                "calulated_weight": "11,11 %",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "11,11 %"
+            },
+            {
+                "grade_item": "Traveling_size16",
+                "calulated_weight": "11,11 %",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "11,11 %"
+            },
+            {
+                "grade_item": "Traveling (Input mẫu - không tính điểm)",
+                "calulated_weight": "11,11 %",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "11,11 %"
+            },
+            {
+                "grade_item": "Nộp các file code và báo cáo",
+                "calulated_weight": "0,00 %( Empty )",
+                "grade": "-",
+                "range": "0–100",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "0,00 %"
+            },
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "90,00",
+                "range": "0–90",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "30899",
+        "course_name": "Đại số Tuyến tính (MT1007)_NGUYỄN HỮU HIỆP (CQ_HK232) [L10,L14,L15]",
+        "total_grade": [
+            {
+                "grade_item": "Điểm Bài tập",
+                "calulated_weight": "0,00 %( Empty )",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "0,00 %"
+            },
+            {
+                "grade_item": "Điểm giữa kỳ",
+                "calulated_weight": "100,00 %",
+                "grade": "8,50",
+                "range": "0–10",
+                "percentage": "85,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "85,00 %"
+            },
+            {
+                "grade_item": "Điểm BTL",
+                "calulated_weight": "0,00 %( Empty )",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "0,00 %"
+            },
+            {
+                "grade_item": "Điểm thi",
+                "calulated_weight": "0,00 %( Empty )",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "0,00 %"
+            },
+            {
+                "grade_item": "Link nộp bài tập lớn",
+                "calulated_weight": "0,00 %( Empty )",
+                "grade": "-",
+                "range": "0–100",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "0,00 %"
+            },
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "8,50",
+                "range": "0–10",
+                "percentage": "85,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "7931",
+        "course_name": "Đại số Tuyến tính (MT1007)_Video",
+        "total_grade": [
+            {
+                "grade_item": "Điểm Giữa kỳ",
+                "calulated_weight": "-",
+                "grade": "8,50",
+                "range": "0–10",
+                "percentage": "85,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–80",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "15179",
+        "course_name": "Giải tích 2 (Bài tập) (MT1006)_Đoàn Thị Thanh Xuân (CQ_HK232) [L22,L32,L38,L42]",
+        "total_grade": [
+            {
+                "grade_item": "Nộp BTL L38",
+                "calulated_weight": "0,00 %( Empty )",
+                "grade": "-",
+                "range": "0–100",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "0,00 %"
+            },
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–100",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "9811",
+        "course_name": "Giải tích 2 (Bài tập) (MT1006)_Video",
+        "total_grade": [
+            {
+                "grade_item": "Bài tập rèn luyện",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–17",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–17",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "16527",
+        "course_name": "Giải tích 2 (MT1005)_TRẦN NGỌC DIỄM (CQ_HK232) [L03,L07,L15,L19,L23]",
+        "total_grade": [
+            {
+                "grade_item": "QUIZ 1",
+                "calulated_weight": "",
+                "grade": "9,90",
+                "range": "0,00–10,00",
+                "percentage": "99,00 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 1",
+                "calulated_weight": "",
+                "grade": "9,90",
+                "range": "0,00–10,00",
+                "percentage": "99,00 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 2",
+                "calulated_weight": "",
+                "grade": "4,50",
+                "range": "0,00–6,00",
+                "percentage": "75,00 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 3",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–6,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 1 (a)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 2 (a)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–5,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 3 (a)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 4(a)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 5(a)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 1 (a)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 2 (a)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–5,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 3 (a)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 4(a)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 5(a)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 4(L07)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 5(L07)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 1 (L07)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 2 (L07)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 2",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–6,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST1",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST2",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST2",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST3",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST4",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST1",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST1",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST1",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST2",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST1",
+                "calulated_weight": "",
+                "grade": "10,00",
+                "range": "0,00–10,00",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST2",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST2",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 2 (thang 10)",
+                "calulated_weight": "",
+                "grade": "7,50",
+                "range": "0,00–100,00",
+                "percentage": "7,50 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 3 (Copy)",
+                "calulated_weight": "",
+                "grade": "8,30",
+                "range": "0,00–10,00",
+                "percentage": "83,00 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 3 (L07)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–9,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ - REVIEW 1",
+                "calulated_weight": "",
+                "grade": "5,00",
+                "range": "0,00–5,00",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ - REVIEW 2 (Chuỗi)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–12,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 4 (Copy)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 5",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 4 (Copy)",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 5",
+                "calulated_weight": "",
+                "grade": "9,30",
+                "range": "0,00–10,00",
+                "percentage": "93,00 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST3",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST3",
+                "calulated_weight": "",
+                "grade": "9,00",
+                "range": "0,00–10,00",
+                "percentage": "90,00 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST4",
+                "calulated_weight": "",
+                "grade": "9,00",
+                "range": "0,00–9,00",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST4",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–9,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "NỘP BÀI TẬP LỚN",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–100,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST3",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST4",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–10,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST4",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–9,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST4",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–9,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "PRETEST4",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–9,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ6",
+                "calulated_weight": "",
+                "grade": "7,70",
+                "range": "0,00–9,00",
+                "percentage": "85,56 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "QUIZ 7",
+                "calulated_weight": "",
+                "grade": "10,00",
+                "range": "0,00–10,00",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "Điểm 5%",
+                "calulated_weight": "",
+                "grade": "9,50",
+                "range": "0,00–10,00",
+                "percentage": "95,00 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "Điểm 20%",
+                "calulated_weight": "",
+                "grade": "10,00",
+                "range": "0,00–10,00",
+                "percentage": "100,00 %",
+                "feedback": "10",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "Điểm 25%",
+                "calulated_weight": "",
+                "grade": "8,50",
+                "range": "0,00–13,00",
+                "percentage": "65,38 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "Điểm 50%",
+                "calulated_weight": "",
+                "grade": "10,00",
+                "range": "0,00–13,00",
+                "percentage": "76,92 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "Điểm tổng kết",
+                "calulated_weight": "",
+                "grade": "9,60",
+                "range": "0,00–10,00",
+                "percentage": "96,00 %",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "",
+                "grade": "-",
+                "range": "0,00–355,00",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            }
+        ]
+    },
+    {
+        "id": "5147",
+        "course_name": "Giải tích 2 (MT1005)_Video",
+        "total_grade": [
+            {
+                "grade_item": "Bài tập rèn luyện số 1",
+                "calulated_weight": "",
+                "grade": "20,00",
+                "range": "",
+                "percentage": "",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "Điễm GHK232",
+                "calulated_weight": "",
+                "grade": "8,58",
+                "range": "",
+                "percentage": "",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "Điểm CHK232",
+                "calulated_weight": "",
+                "grade": "10,00",
+                "range": "",
+                "percentage": "",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            },
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "",
+                "grade": "38,58",
+                "range": "",
+                "percentage": "",
+                "feedback": "",
+                "contribute_to_course_total": ""
+            }
+        ]
+    },
+    {
+        "id": "31071",
+        "course_name": "KỸ THUẬT LẬP TRÌNH (CO1027)_HK232_ALL",
+        "total_grade": [
+            {
+                "grade_item": "Assignment 1 - Submission",
+                "calulated_weight": "-",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "Breakdown:+Task 'firstMeet': 1.50+Task 'traceLuggae': 2.50+Task 'chaseTaxi': 3.00+Task 'checkPassword': 1.50+Task 'findCorrectPassword': 1.50",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "Assignment 1 - Nộp lại",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "Assignment 2 - Submission",
+                "calulated_weight": "-",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "Assignment 2 - Final score",
+                "calulated_weight": "-",
+                "grade": "6,82",
+                "range": "0–10",
+                "percentage": "68,20 %",
+                "feedback": "Breakdown:+ Task 'Path, Wall, FakeWall, Position': 1.48+ Task 'Characture': 0.80+ Task 'ArrayMovingObject': 0.50+ Task 'Configuration': 0.39+ Task 'Rboot': 0.67+ Task 'Item': 1.33+ Task 'Bag': 0.23+ Task 'StudyPinkProgram': 1.08Raw score: 6.48",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–40",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "13551",
+        "course_name": "Kỹ thuật Lập trình (CO1027)_TRẦN GIANG SƠN (CQ_HK232) [L01]",
+        "total_grade": [
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–0",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "8139",
+        "course_name": "Kỹ thuật Lập trình (CO1027)_Video",
+        "total_grade": [
+            {
+                "grade_item": "Bài giảng",
+                "calulated_weight": "-",
+                "grade": "14,00",
+                "range": "0–100",
+                "percentage": "14,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "Struct (User-defined data types)",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–100",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "Array",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–100",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "SCORM: String",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–100",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "SCORM: Function (P.1)",
+                "calulated_weight": "-",
+                "grade": "0,00",
+                "range": "0–100",
+                "percentage": "0,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–200",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "31275",
+        "course_name": "KỸ THUẬT LẬP TRÌNH (CO1028)_HK232_ALL",
+        "total_grade": [
+            {
+                "grade_item": "SEB - Sample Test",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "L20",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "Điểm danh",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "DT01",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "L03",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "CC13",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "CC10",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "CC01",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "CC05",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "CC14",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "CC04",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "CC09",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "CC12",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "CC04 (NO SEB)",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "CC12 (NO SEB)",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "Assignment 1",
+                "calulated_weight": "-",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "Breakdown:+Task 'firstMeet': 1.50+Task 'traceLuggae': 2.50+Task 'chaseTaxi': 3.00+Task 'checkPassword': 1.50+Task 'findCorrectPassword': 1.50",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "Assignment tổng cộng",
+                "calulated_weight": "3,33 %",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "L06",
+                "calulated_weight": "-",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "L13",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "L12",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            },
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–300",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "48483",
+        "course_name": "Kỹ thuật Lập trình (TN) (CO1028)_LÊ BÌNH ĐẲNG (CQ_HK232) [L06,L13]",
+        "total_grade": [
+            {
+                "grade_item": "Điểm danh",
+                "calulated_weight": "71,43 %",
+                "grade": "100,00",
+                "range": "0–100",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "71,43 %"
+            },
+            {
+                "grade_item": "Test SEB",
+                "calulated_weight": "7,14 %",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "7,14 %"
+            },
+            {
+                "grade_item": "[L13] Lab Test 06/6/2024",
+                "calulated_weight": "0,00 %( Empty )",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "0,00 %"
+            },
+            {
+                "grade_item": "[L13] Lab Test 06/6/2024 - No SEB",
+                "calulated_weight": "0,00 %( Empty )",
+                "grade": "-",
+                "range": "0–10",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "0,00 %"
+            },
+            {
+                "grade_item": "Lab Week",
+                "calulated_weight": "7,14 %",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "7,14 %"
+            },
+            {
+                "grade_item": "Lab Test",
+                "calulated_weight": "7,14 %",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "7,14 %"
+            },
+            {
+                "grade_item": "Lab Overall",
+                "calulated_weight": "7,14 %",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "7,14 %"
+            },
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "140,00",
+                "range": "0–140",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "6271",
+        "course_name": "Kỹ thuật Lập trình (TN) (CO1028)_Video",
+        "total_grade": [
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–0",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "41847",
+        "course_name": "Lớp Chủ nhiệm (LCN)_NGUYỄN QUANG ĐỨC (CQ_HK232)",
+        "total_grade": [
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–0",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "44767",
+        "course_name": "Sinh hoạt Sinh viên (SA0001)_NGUYỄN QUANG ĐỨC (CQ_HK232) [L27]",
+        "total_grade": [
+            {
+                "grade_item": "Attendance",
+                "calulated_weight": "100,00 %",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "100,00 %"
+            },
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "10,00",
+                "range": "0–10",
+                "percentage": "100,00 %",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "43999",
+        "course_name": "Sinh hoạt Sinh viên (SA0001)_Video",
+        "total_grade": [
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–0",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "12543",
+        "course_name": "Thí nghiệm Vật lý (PH1007)_NGUYỄN  ĐÌNH QUANG (CQ_HK232) [L02,L05,L06,L07,L08,L09,L10,L16,L17,L21,L27,L33]",
+        "total_grade": [
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–0",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    },
+    {
+        "id": "6091",
+        "course_name": "Thí nghiệm Vật lý (PH1007)_Video",
+        "total_grade": [
+            {
+                "grade_item": "Tổng khóa học",
+                "calulated_weight": "-",
+                "grade": "-",
+                "range": "0–0",
+                "percentage": "-",
+                "feedback": "",
+                "contribute_to_course_total": "-"
+            }
+        ]
+    }
+]
