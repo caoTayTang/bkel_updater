@@ -337,6 +337,7 @@ crawl_grades_view(course_grades)
 #     js_string = json.dumps(course_grades, indent=4, ensure_ascii=False)
 #     file.write(js_string)
 
+#TODO: Check DMs
 hour = 3
 while True:
     recheck_data()
