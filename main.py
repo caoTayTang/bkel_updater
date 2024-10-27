@@ -1,6 +1,5 @@
 from dotenv import load_dotenv
 import os
-
 import requests
 from requests.structures import CaseInsensitiveDict
 from bs4 import BeautifulSoup, Tag
